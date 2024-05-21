@@ -1,0 +1,6 @@
+Improve the results of movie recommendation algorithm that you start with.
+Some ideas you could try: 
+Use genre information in u.items to boost scores for movies in the same genre
+Adjust the thresholds 
+Discard bad ratings (only recommend good movies) 
+Try different similarity metrics

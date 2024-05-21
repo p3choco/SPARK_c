@@ -1,0 +1,1 @@
+Predict the price per unit area based on house age, distance to MRT, and number of nearby convenience stores. Do not use hyper parameters, use Vector Assembler as input to decision trees. 

@@ -1,0 +1,1 @@
+Calculate the amount spent by each customer and sort by amount spent.
